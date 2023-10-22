@@ -1,0 +1,70 @@
+House price vs. S and P 500 (personal finances)
+
+I want to answer the question: 
+- Whats the total return (including all costs, rent saved, interest etc.) on owning a 3 bed cottage in the South West (maybe just Malmesbury) for 25 years to today, vs. an equivelent investment in the S and P 500 over the same timeframe (maybe also look at FTSE, Nastech)
+
+ad-hoc notes:
+- interest rates are in bands depending on how much of the house you own. Go for >20%
+- Overpayment is usually allowed at 10% of remainign debt per year
+- mortgage calculator: I can borrow up to £372k over 25 years. (assuming i'm on 90k)
+- new buids are more expensive on avaerage. In the past, prices have grown at the same rate, or slighly higher. Last 2 yeats price growth has been significantly faster, though less so in the south compared to the north
+- 405% growth in average house prices in Wiltshire from 01/07/1998 to 01/07/2023
+- 387% growth in S and P 500 same period as ^
+- primary residence relief is when you sell a home thats your primary residence, you dont have to pay capital gains tax. If you've rented it out for say half teh time you've owned it, there's partial primary residence relief rules
+
+
+resources:
+- ONS graph builder: https://landregistry.data.gov.uk/app/ukhpi/browse?from=1998-10-01&location=http%3A%2F%2Flandregistry.data.gov.uk%2Fid%2Fregion%2Funited-kingdom&to=2023-08-01&lang=en
+- ONS full file house prices (UK HPI full file), search for wiltshire: https://landregistry.data.gov.uk/app/ukhpi/browse?from=1998-10-01&location=http%3A%2F%2Flandregistry.data.gov.uk%2Fid%2Fregion%2Funited-kingdom&to=2023-08-01&lang=en
+- Mortgage quote comparison: https://mortgages-enquiry-page.comparethemarket.com/?wip=652ba425a42fbceafddfc561
+- rightmove get personal mortgage calculations (with soft credit search): https://www.rightmove.co.uk/mortgages/mortgage-in-principle/69617842-7442-4022-ac74-7564041c0961
+- average interest rate of mortgages over time: https://www.statista.com/statistics/386301/uk-average-mortgage-interest-rates/
+- Martin Lewis first time buyer guide: file:///Users/george.adye/Downloads/FTBGuide-Jan23-v11.pdf
+- S and P data: https://www.marketwatch.com/investing/index/spx/download-data?startDate=7/1/1998&endDate=7/2/2018
+
+assumptions:
+- interest rates assumed to be lower than now over the 25 year period.
+- House price sees same average growth as it did last 25 years in Wiltshire. 
+- 21% mortgage (85k deposit)
+- 400k
+- Freehold
+- 25 years
+- 2 year fixed rate interest
+- fees 2k solicitor, 1k bank, level 3 survey (for old homes) 1k. Lets round up to 5k
+- I have a 90k gross a year income
+- some early repayments
+- No renting - otherwise primary residence relief wouldn't apply and would have to pay capital gains
+- on average, 16k a year invested in the mortgage (400k/25). Problem: in reality would pay more interest initially, more of the principal later. However, this is offset by 85k initial deposit and any early repayments. So the assumption roughly evens out
+- total I repay including interest is estimated £730k on a likely mortgage for £315k I get. Lets assume its £600k due to remortgaging to lower interstest rates and early paymemnts. survey, w
+
+
+<<<<<<< Parameters >>>>>>>>
+<<<< House >>>>:
+- 600k: mortgage + interest rates
+- 85k deposit
+- fees: 2k solicitor, 1k bank, level 3 survey (for old homes) 1k. Lets round up to 5k. + early repayment and remortgage fees 5k = 10k
+- 16k invested a year on the house
+- 0k in tax during sale due to primary residence relief
+
+<<<< S & P >>>>:
+- 0.07% fees (what my SandP fund has annually)
+- 1.5% dividend yield (roughly what my SandP fund has annually)
+- 0k in tax during sale due to being in ISA
+
+
+<<<< Others >>>>
+- 25 year period
+- 1,333 a month in both (400k / 25 / 12)
+
+
+
+Comment on analysis done in the excel sheet:
+- house price growth seems much more stable, at around +1% per month, wheras the S and P is much more volitle. Camden is more volitile than glouchetershire or wilts
+- house investment is more profitable (before caluclating all costs) up until 2019, wher the S and P overtakes (before caluclating all costs). House price growth looks like it gently slowed during that period, whereas its a strong bull market for s and p. Overall S and P returns significantly more
+- S and P goes crazy after covid. Bubble??
+- Similar RoI for all regions
+- Gloucester has a lot more of the cotswolds than Wiltshire. So maybe It's a better indicator of cotswold house growth
+- After 10 years of investment, we've actually lost money in the SandP. So it's very deterministic on when you start investing in it
+
+
+
